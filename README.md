@@ -1,8 +1,11 @@
-👋 Hi there! I'm Kartik, an enthusiastic undergraduate with a passion for developing web applications.
+👋 Hi there! I'm Kartik, a descent working professional, eager to learn new tech-stack and develop web applications.
 
-👀 I have expertise in several programming languages, including C++, Java, Python, HTML, CSS, Javascript and SQL. I'm well-versed in a variety of technologies like GraphQL, React.js, Node.js, Express (JS), Bootstrap (CSS), MySQL (SQL), and Firebase. I'm also comfortable working with Jira, Git and GitHub. I love designing systems based on efficient system design principles for maximum output with minimum input and also minimum trade-offs.
+💻 My technical skills include full stack development, AI and ML application development, RAG integration, API development and integration, deployment using various tools. 
+My tech stack includes React.js, Node.js, Express.js, Bootstrap 4/5, MySQL, Drupal 8/9, Apache Unomi and C++, Java, Python and Javascript as programming languages. I’m also well-versed in using tools like Jira, Git and Jenkins, ensuring smooth collaboration, handling deployment and version control in projects.
 
-🌱 I'm currently diving deeper into the realms of Machine Learning, AI, Retrieval-Augmented Generation (RAG), LangChain and exploring their use in web personalization industry.
+🛠 I love designing systems with a focus on efficiency, aiming for maximum output with minimal trade-offs.
+
+🌱 I’m building from scratch, an application using Machine Learning (ML), Artificial Intelligence (AI), Retrieval-Augmented Generation (RAG) and LangChain, using Python as the programming language, with use case of web personalisation. I'm also exploring use cases of this new technology in other fields.
 
 📫 Feel free to reach out to me at: agni5kartik@gmail.com
 
