@@ -1,10 +1,14 @@
-👋 Hi, I'm Kartik Agnihotri, an Associate Software Developer passionate about building scalable, user-focused web and AI systems.
+👋 Hey, I’m Kartik — I like building things that actually solve problems.
 
-💻 I work across the stack — React, Next.js, Node.js, and Python — and have hands-on experience with AI integrations (OpenAI, Google Gemini, RAG), API development, and AWS-based deployments.
+💻 I work mostly with JavaScript, React, Next.js, Node.js, and AWS, and enjoy building backend-heavy SaaS systems that don’t fall apart in production.
 
-🧠 Currently exploring RAG + LangChain for web personalization and designing efficient, plug-and-play AI systems.
+🤖 Lately, I’ve been deep into AI stuff, building LLM-powered features with OpenAI and Gemini, experimenting with RAG and vector search, and putting together AI agents that plug cleanly into real products.
 
-📫 Reach me at agni5kartik@gmail.com
+⚙️ I care a lot about performance, reliability, and cost. Retries, fallbacks, latency tuning, and making systems behave when things go wrong. That's what I do!
+
+🌱 Currently exploring open source, better AI system design, and ways to make AI features feel boringly reliable.
+
+📫 You can reach me at: agni5kartik@gmail.com
 
 <!---
 KrAG2000/KrAG2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
